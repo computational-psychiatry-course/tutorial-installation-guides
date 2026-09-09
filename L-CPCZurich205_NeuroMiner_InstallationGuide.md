@@ -1,15 +1,17 @@
-# NeuroMiner Installation Guide – CPC Zurich 2025
+# NeuroMiner Installation Guide – CPC Zurich 2026
 
-## No Local Installation Required
+## 1. MATLAB
+You'll need MATLAB with the Statistics and Machine Learning Toolbox and the Optimization Toolbox. You can type `ver` in the Command Window to check what you already have installed. If you don't have a Matlab license, please contact us so we can provide you with a temporary one.
 
-For this workshop, **no specific software installation is required** on your computer. All tutorial materials and NeuroMiner will be accessible via **MATLAB Online**.
+One quirk worth knowing: NeuroMiner's interface doesn't display properly in dark mode. Please switch to Settings → Appearance → Desktop Theme → Light.
 
-## Requirements
-- You only need a **valid MATLAB license** to access MATLAB Online.
-- If you do **not have a MATLAB license**, please contact us on discord or email ([cpcourse@biomed.ee.ethz.ch](mailto:cpcourse@biomed.ee.ethz.ch))before the workshop. We can provide access for participants who need it.
+## 2. NeuroMiner and SPM12
+Download and unpack this file: https://syncandshare.lrz.de/getlink/fi9tEHetb19TTunV2ggvF2/CPC_2026.zip
 
-## How to Access
+Both toolboxes are already included and correctly named, so there's nothing else to install. If you'd rather download them yourself from the original sources, pages 5–6 of the attached script explain how.
 
-1. Visit [MATLAB Online](https://www.mathworks.com/products/matlab-online.html).
-2. Log in using your MathWorks account associated with your MATLAB license.
-3. Workshop materials and instructions will be provided during the session.
+## 3. The data (on the day)
+
+The dataset we will use in the exercises is available at: https://syncandshare.lrz.de/getlink/fiSkcFwaPJra1HA6etsL3j/. We'll sign the data agreement together at the start of the session, and I'll give you the password to download the files then. Nothing for you to do in advance.
+
+Please bring your laptop, and if you have a few minutes, have a look at the first pages of the attached script before we start.
